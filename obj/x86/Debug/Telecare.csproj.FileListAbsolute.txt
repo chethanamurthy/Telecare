@@ -1,0 +1,6 @@
+/Users/cmmac/Projects/Telecare/Telecare/bin/Debug/Telecare.exe
+/Users/cmmac/Projects/Telecare/Telecare/bin/Debug/Telecare.pdb
+/Users/cmmac/Projects/Telecare/Telecare/obj/x86/Debug/Telecare.csprojAssemblyReference.cache
+/Users/cmmac/Projects/Telecare/Telecare/obj/x86/Debug/Telecare.csproj.CoreCompileInputs.cache
+/Users/cmmac/Projects/Telecare/Telecare/obj/x86/Debug/Telecare.exe
+/Users/cmmac/Projects/Telecare/Telecare/obj/x86/Debug/Telecare.pdb
